@@ -13,8 +13,7 @@ A modern and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 - ⚡ Smooth animations and hover effects
 
 ## 🚀 Live Demo
-tic-tac-toe-two-amber-39.vercel.app
-
+https://tic-tac-toe-two-amber-39.vercel.app/
 ## 🛠️ Technologies Used
 
 - HTML5
